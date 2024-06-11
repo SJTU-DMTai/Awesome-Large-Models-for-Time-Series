@@ -8,6 +8,10 @@
 
 ## Multi-Modal
 
+| Venue   | Title                                                        | Keywords     |
+| ------- | ------------------------------------------------------------ | ------------ |
+| ICML'24 | [MoAT: Multi-Modal Augmented Time Series Forecasting](https://openreview.net/forum?id=uRXxnoqDHH) | News article |
+
 ## Training
 
 ### Pre-Training
@@ -29,7 +33,7 @@
 | ICML'24 | [UP2ME: Univariate Pre-training to Multivariate Fine-tuning as a General-purpose Framework for Multivariate Time Series Analysis](https://openreview.net/pdf?id=aR3uxWlZhX) | Masked auto-encoder pretraining; Variable window size; Multivariate fine-tuning |
 | ICML'24 | [Multi-Patch Prediction: Adapting LLMs for Time Series Representation Learning](https://arxiv.org/pdf/2402.04852v2) | Autoregressive patch-wise decoding                           |
 
-## Prompting
+## Prompting / Conditional Generation
 
 | Venue   | Title                                                        | Keywords                 |
 | ------- | ------------------------------------------------------------ | ------------------------ |
