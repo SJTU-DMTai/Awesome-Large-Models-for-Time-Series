@@ -10,7 +10,7 @@
 
 | Venue   | Title                                                        | Keywords     |
 | ------- | ------------------------------------------------------------ | ------------ |
-| ICML'24 | [MoAT: Multi-Modal Augmented Time Series Forecasting](https://openreview.net/forum?id=uRXxnoqDHH) | News article |
+|         | [MoAT: Multi-Modal Augmented Time Series Forecasting](https://openreview.net/forum?id=uRXxnoqDHH) | News article |
 
 ## Training
 
@@ -20,6 +20,7 @@
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------- |
 | ICML'24 | [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/pdf/2402.02592) | Multivariate; Large-scale data; Variable window size    |
 | ICML’24 | [Timer: Generative Pre-trained Transformers Are Large Time Series Models](https://openreview.net/pdf?id=bYRYb7DMNo) | Channel independence; Large-scale data; Auto-regression |
+| arXiv’24 | [UNITS: A Unified Multi-Task Time Series Model](https://arxiv.org/pdf/2403.00131) | One model for many tasks; Prompt tuning |
 | ICML'24 | [MOMENT: A Family of Open Time-series Foundation Models](https://openreview.net/pdf?id=FVvf69a5rx) | Masked auto-encoder pretraining                         |
 | ICML'24 | [A decoder-only foundation model for time-series forecasting](https://openreview.net/pdf?id=jn2iTJas6h) | Auto-regressive patch-wise decoding                     |
 | ICML'24 | [TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling](https://openreview.net/pdf?id=wrTzLoqbCg) | Reconstruction                                          |
