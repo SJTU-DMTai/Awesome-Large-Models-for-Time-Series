@@ -6,12 +6,6 @@
 | ------- | ------------------------------------------------------------ |
 | ICML'24 | [Position: What Can Large Language Models Tell Us about Time Series Analysis](https://openreview.net/pdf?id=iroZNDxFJZ) |
 
-## Multi-Modal
-
-| Venue   | Title                                                        | Keywords     |
-| ------- | ------------------------------------------------------------ | ------------ |
-|         | [MoAT: Multi-Modal Augmented Time Series Forecasting](https://openreview.net/forum?id=uRXxnoqDHH) | News article |
-
 ## Training
 
 ### Pre-Training
@@ -67,3 +61,9 @@
 | Venue   | Title                                                        | Keywords |
 | ------- | ------------------------------------------------------------ | -------- |
 | ICML'24 | [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://openreview.net/pdf?id=1lDAGDe0UR) |          |
+
+### Multi-Modal
+
+| Venue   | Title                                                        | Keywords     |
+| ------- | ------------------------------------------------------------ | ------------ |
+|         | [MoAT: Multi-Modal Augmented Time Series Forecasting](https://openreview.net/forum?id=uRXxnoqDHH) | News article |
