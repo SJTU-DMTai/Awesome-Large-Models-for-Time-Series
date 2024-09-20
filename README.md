@@ -1,10 +1,19 @@
 # Awesome-Large-Models-for-Time-Series
 
+## SOTA
+| Venue   | Title                                                        |
+| ------- | ------------------------------------------------------------ |
+|  | [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/pdf/2404.14197) |
+|  | [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/pdf/2405.16877) |
+|  | [In-context Time Series Predictor](https://arxiv.org/pdf/2405.14982) |
+
+
 ## Survey
 
 | Venue   | Title                                                        |
 | ------- | ------------------------------------------------------------ |
 | ICML'24 | [Position: What Can Large Language Models Tell Us about Time Series Analysis](https://openreview.net/pdf?id=iroZNDxFJZ) |
+| KDD'24  | [Foundation Models for Time Series Analysis: A Tutorial and Survey](https://arxiv.org/pdf/2403.14735) |
 
 ## Training
 
@@ -34,6 +43,7 @@
 | ------- | ------------------------------------------------------------ | ------------------------ |
 | ICML'24 | [Time Weaver: A Conditional Time Series Generation Model](https://openreview.net/pdf?id=WpKDeixmFr) | Diffusion                |
 | ICML'24 | [S$^2$IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting](https://arxiv.org/pdf/2403.05798) | Retrieve word embeddings |
+| KDD'24  | [POND: Multi-Source Time Series Domain Adaptation with Information-Aware Prompt Tuning](https://arxiv.org/pdf/2312.12276) | Transfer |
 
 # Misc
 
