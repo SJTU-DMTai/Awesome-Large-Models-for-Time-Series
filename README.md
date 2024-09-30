@@ -3,7 +3,8 @@
 ## SOTA
 | Venue   | Title                                                        |
 | ------- | ------------------------------------------------------------ |
-|  | [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/pdf/2404.14197) |
+|  | [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://arxiv.org/pdf/2409.16040) |
+| NeurIPS'24 | [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/pdf/2404.14197) |
 |  | [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/pdf/2405.16877) |
 |  | [In-context Time Series Predictor](https://arxiv.org/pdf/2405.14982) |
 
