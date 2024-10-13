@@ -3,10 +3,10 @@
 ## SOTA
 | Venue   | Title                                                        |
 | ------- | ------------------------------------------------------------ |
-|  | [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://arxiv.org/pdf/2409.16040) |
-| NeurIPS'24 | [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/pdf/2404.14197) |
-|  | [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/pdf/2405.16877) |
-|  | [In-context Time Series Predictor](https://arxiv.org/pdf/2405.14982) |
+| Under review of ICLR'25 | [Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts](https://arxiv.org/pdf/2409.16040) |
+| Under review of ICLR'25 | [In-context Time Series Predictor](https://arxiv.org/pdf/2405.14982) |
+| NIPS'24 | [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/pdf/2404.14197) |
+| NIPS'24 | [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/pdf/2405.16877) |
 
 
 ## Survey
@@ -22,12 +22,12 @@
 
 | Venue   | Title                                                        | Keywords                                                |
 | ------- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| NIPS'24 | [Large Pre-trained time series models for cross-domain Time series analysis tasks](https://arxiv.org/abs/2311.11413) | |
 | ICML'24 | [Unified Training of Universal Time Series Forecasting Transformers](https://arxiv.org/pdf/2402.02592) | Multivariate; Large-scale data; Variable window size    |
 | ICML’24 | [Timer: Generative Pre-trained Transformers Are Large Time Series Models](https://openreview.net/pdf?id=bYRYb7DMNo) | Channel independence; Large-scale data; Auto-regression |
-| arXiv’24 | [UNITS: A Unified Multi-Task Time Series Model](https://arxiv.org/pdf/2403.00131) | One model for many tasks; Prompt tuning |
+| NIPS’24 | [UNITS: A Unified Multi-Task Time Series Model](https://arxiv.org/pdf/2403.00131) | One model for many tasks; Prompt tuning |
 | ICML'24 | [MOMENT: A Family of Open Time-series Foundation Models](https://openreview.net/pdf?id=FVvf69a5rx) | Masked auto-encoder pretraining                         |
 | ICML'24 | [A decoder-only foundation model for time-series forecasting](https://openreview.net/pdf?id=jn2iTJas6h) | Auto-regressive patch-wise decoding                     |
-| ICML'24 | [TimeSiam: A Pre-Training Framework for Siamese Time-Series Modeling](https://openreview.net/pdf?id=wrTzLoqbCg) | Reconstruction                                          |
 
 ### Fine-Tuning
 
@@ -61,20 +61,9 @@
 | ------- | ------------------------------------------------------------ | -------- |
 | ICML'24 | [SIN: Selective and Interpretable Normalization for Long-Term Time Series Forecasting](https://openreview.net/pdf?id=cUMOVfOIve) |          |
 
-### Generalization
-
-| Venue   | Title                                                        | Keywords |
-| ------- | ------------------------------------------------------------ | -------- |
-| ICML'24 | [Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning](https://openreview.net/pdf?id=SMUXPVKUBg) |          |
-
-### Channel Dependence
-
-| Venue   | Title                                                        | Keywords |
-| ------- | ------------------------------------------------------------ | -------- |
-| ICML'24 | [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://openreview.net/pdf?id=1lDAGDe0UR) |          |
-
 ### Multi-Modal
 
 | Venue   | Title                                                        | Keywords     |
 | ------- | ------------------------------------------------------------ | ------------ |
+| NIPS'24 | [Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis](https://arxiv.org/abs/2406.08627) | |
 |         | [MoAT: Multi-Modal Augmented Time Series Forecasting](https://openreview.net/forum?id=uRXxnoqDHH) | News article |
